@@ -1,0 +1,16 @@
+# Ignore django stuff:
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore user uploaded media
+media/
+
+# Ignore settings file
+myproject/settings.py
+
+# Ignore sqlite3 database
+db.sqlite3
+
+# Ignore virtualenv
+venv/
